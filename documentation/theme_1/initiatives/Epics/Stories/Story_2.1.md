@@ -8,6 +8,6 @@ The website includes a clear and concise privacy policy that outlines how user d
 
 
 # List Tasks related to this Story
-1. [Task 2.1.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.1.1.md)
-2. [Task 2.1.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.1.2.md)
-3. [Task 2.1.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.1.3.md)
+1. [Task 2.1.1](Tasks/Task_2.1.1.md)
+2. [Task 2.1.2](Tasks/Task_2.1.2.md)
+3. [Task 2.1.3](Tasks/Task_2.1.3.md)

@@ -8,6 +8,6 @@ All website features and functionality can be accessed and operated using only k
 
 
 # List Tasks related to this Story
-1. [Task 1.1.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_1.1.1.md)
-2. [Task 1.1.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_1.1.2.md)
-3. [Task 1.1.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_1.1.3.md)
+1. [Task 1.1.1](Tasks/Task_1.1.1.md)
+2. [Task 1.1.2](Tasks/Task_1.1.2.md)
+3. [Task 1.1.3](Tasks/Task_1.1.3.md)

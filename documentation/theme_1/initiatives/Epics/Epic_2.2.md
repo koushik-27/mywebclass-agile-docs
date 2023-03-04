@@ -17,4 +17,4 @@ Business Value: [Specify the business value that will be delivered by the epic]
 Priority: [Assign a priority to the epic]
 
 # List stories related to this theme
-1. [Story 2.2](documentation/theme_1/initiatives/Epics/Stories/Story_2.2.md)
+1. [Story 2.2](Stories/Story_2.2.md)

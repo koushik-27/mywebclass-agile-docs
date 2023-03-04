@@ -23,6 +23,6 @@ Dependencies: [List any dependencies that may impact the initiative]
 Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
-1. [Epic 3.1](documentation/theme_1/initiatives/Epics/Epic_3.1.md)
-2. [Epic 3.2](documentation/theme_1/initiatives/Epics/Epic_3.2.md)
-3. [Epic 3.3](documentation/theme_1/initiatives/Epics/Epic_3.3.md)
+1. [Epic 3.1](Epics/Epic_3.1.md)
+2. [Epic 3.2](Epics/Epic_3.2.md)
+3. [Epic 3.3](Epics/Epic_3.3.md)

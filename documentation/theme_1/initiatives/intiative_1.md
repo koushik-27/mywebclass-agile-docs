@@ -24,5 +24,5 @@ Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
 1. [Epic 1.1](Epics/Epic_1.1.md)
-2. [Epic 1.2](documentation/theme_1/initiatives/Epics/Epic_1.2.md)
-3. [Epic 1.3](documentation/theme_1/initiatives/Epics/Epic_1.3.md)
+2. [Epic 1.2](Epics/Epic_1.2.md)
+3. [Epic 1.3](Epics/Epic_1.3.md)

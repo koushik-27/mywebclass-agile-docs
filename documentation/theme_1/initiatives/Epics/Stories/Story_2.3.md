@@ -8,6 +8,6 @@ All multimedia content, including videos and audio files, have closed captions a
 
 
 # List Tasks related to this Story
-1. [Task 2.3.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.3.1.md)
-2. [Task 2.3.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.3.2.md)
-3. [Task 2.3.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_2.3.3.md)
+1. [Task 2.3.1](Tasks/Task_2.3.1.md)
+2. [Task 2.3.2](Tasks/Task_2.3.2.md)
+3. [Task 2.3.3](Tasks/Task_2.3.3.md)

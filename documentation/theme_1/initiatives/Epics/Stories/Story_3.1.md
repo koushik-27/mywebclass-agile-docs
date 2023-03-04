@@ -8,6 +8,6 @@ Each page on the website includes relevant keywords and phrases in the page titl
 
 
 # List Tasks related to this Story
-1. [Task 3.1.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.1.1.md)
-2. [Task 3.1.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.1.2.md)
-3. [Task 3.1.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.1.3.md)
+1. [Task 3.1.1](Tasks/Task_3.1.1.md)
+2. [Task 3.1.2](Tasks/Task_3.1.2.md)
+3. [Task 3.1.3](Tasks/Task_3.1.3.md)

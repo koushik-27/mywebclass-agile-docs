@@ -8,6 +8,6 @@ Each page on the website includes relevant and reliable links to external resour
 
 
 # List Tasks related to this Story
-1. [Task 3.3.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.3.1.md)
-2. [Task 3.3.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.3.2.md)
-3. [Task 3.3.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.3.3.md)
+1. [Task 3.3.1](Tasks/Task_3.3.1.md)
+2. [Task 3.3.2](Tasks/Task_3.3.2.md)
+3. [Task 3.3.3](Tasks/Task_3.3.3.md)

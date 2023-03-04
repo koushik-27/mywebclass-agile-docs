@@ -8,6 +8,6 @@ Each page on the website has a clear and descriptive title and meta description,
 
 
 # List Tasks related to this Story
-1. [Task 3.2.1](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.2.1.md)
-2. [Task 3.2.2](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.2.2.md)
-3. [Task 3.2.3](documentation/theme_1/initiatives/Epics/Stories/Tasks/Task_3.2.3.md)
+1. [Task 3.2.1](Tasks/Task_3.2.1.md)
+2. [Task 3.2.2](Tasks/Task_3.2.2.md)
+3. [Task 3.2.3](Tasks/Task_3.2.3.md)
