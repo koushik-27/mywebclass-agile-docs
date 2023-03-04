@@ -1,6 +1,6 @@
 Task Title: Review ARIA guidelines
 
-User Story: [Story 1.1](Epics/StoriesStories/Story_1.1.md)
+User Story: [Story 1.1](mywebclass-agile-docs/documentation/theme_1/initiativesEpics/StoriesStories/Story_1.1.md)
 
 Description: Conduct a thorough review of the ARIA guidelines and determine the specific requirements for compliance
 
