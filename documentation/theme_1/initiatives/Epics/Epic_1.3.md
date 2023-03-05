@@ -2,7 +2,7 @@
 
 Description: Continuously monitor and maintain ARIA compliance
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: setting up monitoring for ARIA regulations
 
 User Stories: [List the user stories that will help achieve the goals of the epic]
 
