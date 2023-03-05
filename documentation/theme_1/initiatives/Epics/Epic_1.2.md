@@ -2,7 +2,7 @@
 
 Description: Ensure all website content is ARIA compliant
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: website content satisfies ARIA regulations
 
 User Stories: [List the user stories that will help achieve the goals of the epic]
 
