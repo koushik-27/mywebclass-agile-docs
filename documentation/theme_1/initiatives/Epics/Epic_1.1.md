@@ -2,7 +2,7 @@
 
 Description: Design and develop a website architecture that meets ARIA compliance standards
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: Meeting ARIA standards
 
 User Stories: [List the user stories that will help achieve the goals of the epic]
 
