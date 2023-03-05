@@ -1,6 +1,6 @@
 "ARIA Compatibility"
 
-Description: Develop a website that is compliant with the ARIA regulations
+Description: Develop a website that is compliant with the ARIA regulations supporting disabled users
 
 Goals: [List the goals or objectives of the initiative]
 
