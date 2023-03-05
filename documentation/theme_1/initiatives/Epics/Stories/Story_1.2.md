@@ -4,7 +4,7 @@
 
 Acceptance Criteria:
 
-All website features and functionality can be accessed and operated using only keyboard navigation, including dropdown menus, links, and form fields.
+All multimedia content, including videos, audio files, and images, have descriptive alt text and/or captions to be read by screen readers.
 
 
 # List Tasks related to this Story
